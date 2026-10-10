@@ -1,16 +1,21 @@
-## Hi there 👋
+[README (2).md](https://github.com/user-attachments/files/33284902/README.2.md)
+# Muhammad Bhatti
 
-<!--
-**Muhammad-Dev777/Muhammad-Dev777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **BS Computer Science student at the Virtual University of Pakistan**, currently in my fourth semester with a **CGPA of 3.62/4.0**. I'm strengthening my programming fundamentals through university study and practical exercises, with a particular interest in AI and intelligent devices.
 
-Here are some ideas to get you started:
+## Studies and technical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C/C++, with Python and SQL currently in progress.
+- **Current studies:** Object-oriented programming, data structures, database management systems, software engineering, and discrete mathematics.
+- **Other tools:** Git and HTML/CSS.
+- **Certification:** Cisco C++ Essentials.
+
+## Interests and background
+
+I'm interested in machine learning, computer vision, edge AI, and embedded systems. I hope to explore how these technologies can support useful, responsible applications as I develop my skills.
+
+My previous work includes product analysis, e-commerce operations, and technical and content SEO. That experience helped me develop analytical and communication skills, while my current focus is on computer science and software development.
+
+## Connect
+
+[Portfolio & CV](https://muhammad-bhatti-portfolio.noisyanole16.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/muhammad-bhatti-) · [Email](mailto:muhammadbhattisab100@gmail.com)
