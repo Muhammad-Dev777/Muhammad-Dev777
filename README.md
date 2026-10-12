@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/33284902/README.2.md)
+[README .md](https://github.com/user-attachments/files/33284902/README.2.md)
 # Muhammad Bhatti
 
 I'm a **BS Computer Science student at the Virtual University of Pakistan**, currently in my fourth semester with a **CGPA of 3.62/4.0**. I'm strengthening my programming fundamentals through university study and practical exercises, with a particular interest in AI and intelligent devices.
