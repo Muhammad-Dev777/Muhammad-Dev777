@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Bhatti 👋
+# Hi, I'm Muhammad Bhatti 
 
 **Computer Science Student · C++ Projects · Exploring AI**
 
@@ -23,7 +23,7 @@ I'm building my programming foundations through coursework and practical project
 
 ## Featured projects
 
-### 💰 [Expense Tracker — C++](https://github.com/Muhammad-Dev777/cpp-expense-tracker)
+###  [Expense Tracker — C++](https://github.com/Muhammad-Dev777/cpp-expense-tracker)
 
 A console application for recording and managing everyday expenses in PKR.
 
@@ -34,7 +34,7 @@ A console application for recording and managing everyday expenses in PKR.
 
 **Concepts explored:** classes, vectors, functions, references, file handling, and menu-driven programs.
 
-### 📚 [Library Management System — C++](https://github.com/Muhammad-Dev777/Library-Management-System---Cpp)
+###  [Library Management System — C++](https://github.com/Muhammad-Dev777/Library-Management-System---Cpp)
 
 A C++17 console application for managing books, members, and borrowing records.
 
